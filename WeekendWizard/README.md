@@ -12,16 +12,6 @@ It connects a local Ollama model to a Python MCP server that exposes a few free 
 
 The agent uses a simple tool-calling loop, gathers tool output, and then writes a short final response.
 
-## Assignment Source
-
-Confluence page:
-
-- [Level 2 - Practitioner](https://3eco.atlassian.net/wiki/spaces/3EIT/pages/2115764823/Level+2+-+Practitioner)
-
-Relevant section:
-
-- "Capstone: Build a Simple, Fun Agent (MCP + Free APIs + Local LLM)"
-
 ## Prerequisites
 
 Required:
